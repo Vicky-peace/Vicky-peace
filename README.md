@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vicky-peace
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...bachelors in software engineering
+- 🌱 I’m currently learning ...Bachelors in software engineering
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...email me @victorpeace47@gmail.com or whatsapp +254 714933162
 
