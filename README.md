@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...email me @victorpeace47@gmail.com or whatsapp +254 714933162
 
+- https://github-readme-stats.vercel.app/api?username=Vicky-peace&show_icons=true&theme=radical
+
 
 <!---
 Vicky-peace/Vicky-peace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
